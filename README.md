@@ -1,6 +1,6 @@
 # My-Notes-v2
 
-### [For Demo App]([https://play.google.com/store/apps/details?id=com.ihsanarslan.mynotes](https://play.google.com/store/apps/details?id=com.ihsanarslan.yksanaliz))
+### [For Demo App]([https://play.google.com/store/apps/details?id=com.ihsanarslan.yksanaliz])
 
 ### The images on the onboarding screen are videos. Each video is 8-10 seconds long and works in an automatic looping format.
 
