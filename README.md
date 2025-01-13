@@ -1,4 +1,4 @@
-# My-Notes-v2
+# Onboarding Template
 
 ### [For Demo App](https://play.google.com/store/apps/details?id=com.ihsanarslan.yksanaliz)
 
